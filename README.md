@@ -1,2 +1,1 @@
-The first readme file to have inserted in the files 
-Open and read me 
+hELLO WORLD FIRST COMMIT FOR STUDY PURPOSES ONLY
